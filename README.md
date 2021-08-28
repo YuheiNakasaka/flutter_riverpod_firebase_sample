@@ -15,3 +15,10 @@
 ```
 $ fvm flutter run --dart-define=FLAVOR=dev
 ```
+
+## TODO
+
+- [x] env with -dart-define
+- [x] Sign in anonymously
+- [ ] Sign in with Email
+- [ ] CRUD with Firestore
